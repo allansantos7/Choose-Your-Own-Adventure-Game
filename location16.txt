@@ -1,0 +1,8 @@
+You are 1 sector away from reaching HQ and the two closest sectors are of equal distance to each other.
+You can only jump to one of the two, which do you jump to:
+
+1: Civilian Sector
+    - sector that mostly house civilian planets with lots of security, making it safe for trade
+
+2: Nebula Sector
+    - Lots of vapour throughout the sector, sensors are having a hard time determining what exactly is in this sector.

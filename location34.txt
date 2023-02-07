@@ -1,0 +1,8 @@
+You are 1 sector away from reaching HQ and the two closest sectors are of equal distance to each other.
+You can only jump to one of the two, which do you jump to:
+
+1: Asteroid Sector
+    - sector filled with debris throughout, the rebels will have a hard time chasing you through here
+
+2: Hostile Sector
+    - sector filled with pirates, a lawless sector

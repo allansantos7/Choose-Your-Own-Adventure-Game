@@ -1,0 +1,9 @@
+As you are flying, your sensors pick up an Interceptor class ship nearby.
+
+Detecting... Detecting... It's a Rebel ship!
+
+Their ships are equipped with Dual laser cannons and a Missile cannon.
+
+Piloting a Scout class ship, you can escape or intercept them.
+
+What do you do?

@@ -1,0 +1,7 @@
+Welcome to a new sector! Get to the exit beacon and jump to the next sector before the pursuing Rebels catch you!
+
+Remember:
+After jumping to a new sector, you use 4 fuel each time.
+
+Gather fuel supplies if needed.
+Find the exit beacon in the sector to proceed to the next.

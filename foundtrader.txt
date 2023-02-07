@@ -1,0 +1,4 @@
+You encounter a trader who is willing to sell you either Fuel or Repairs for a price:
+1: 5 Fuel in exchange for 2 HP
+2: 5 HP in exchange for 2 Fuel
+3: Leave

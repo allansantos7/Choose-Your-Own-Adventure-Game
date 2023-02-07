@@ -1,0 +1,10 @@
+As you are flying, your sensors pick up an Interceptor class ship nearby.
+
+Detecting... Detecting... It's a Pirate ship!
+
+Despite being an Interceptor class ship, they're not much equipped weapon wise.
+They only have a single twin laser cannon similar to yours.
+
+Piloting a Scout class ship, you can escape or intercept them.
+
+What do you do?

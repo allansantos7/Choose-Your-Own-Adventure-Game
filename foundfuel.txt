@@ -1,0 +1,2 @@
+Your ship has detected resources that can be converted into fuel.
+These resources have been converted into:

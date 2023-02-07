@@ -1,0 +1,9 @@
+You start at a sector's exit beacon.
+You are 2 sectors away from reaching HQ and the two closest sectors are of equal distance to each other.
+You can only jump to one of the two, which do you jump to:
+
+1: Civilian Sector
+    - sector that mostly house civilian planets with lots of security, making it safe for trade
+
+2: Neutral Sector
+    - sector that house a mix of characters, good or bad

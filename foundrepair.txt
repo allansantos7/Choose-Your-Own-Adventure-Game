@@ -1,0 +1,3 @@
+You encountered a civilian repair ship.
+They have offered to repair your ship, if needed, free of charge. How nice!
+They repair:
