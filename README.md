@@ -2,6 +2,7 @@
 
 <h1> Choose Your Own Adventure! Game using Python </h1></br>
 
+Story: </br>
 You are a messenger of the Galactic Federation.  You have an important message that must be delivered to Federation Headquarters.</br>
 Unfortunately, due to the sensitive nature of this information, it must be delivered in person. </br>
 
@@ -12,3 +13,8 @@ It has a basic twin laser cannon for self defense, not meant for prolonged fight
 This information will be important to keep in mind while trying to complete your objective. </br>
 
 Your current objective is to run! Defeat any obstacles in your way, at all costs! </br>
+
+Goals:
+An Entertaining Adventure Story (No lorem Ipsum)
+Use of Functional and/or Object-Oriented Programming.
+Use of Control Structures, Functions, File Handling (Ex: Can choose a specific file to load to make a decision or write the user's adventure to a file), and Python Types.
