@@ -14,7 +14,15 @@ This information will be important to keep in mind while trying to complete your
 
 Your current objective is to run! Defeat any obstacles in your way, at all costs! </br>
 
-Goals:
-An Entertaining Adventure Story (No lorem Ipsum)
-Use of Functional and/or Object-Oriented Programming.
-Use of Control Structures, Functions, File Handling (Ex: Can choose a specific file to load to make a decision or write the user's adventure to a file), and Python Types.
+Goals: </br>
+<ol>
+  <li>
+    Create an Entertaining Adventure Story.
+  </li>
+  <li>
+    Use of Functional and Object-Oriented Programming with Python.
+  </li>
+  <li>
+    Use of Control Structures, Functions, File Handling (Ex: Can choose a specific file to load to make a decision or write the user's adventure to a file), and Python Types.
+  </li>
+</ol>
