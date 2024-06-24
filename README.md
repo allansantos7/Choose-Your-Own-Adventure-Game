@@ -1,4 +1,4 @@
-![image](https://github.com/allansantos7/Choose-Your-Own-Adventure-Game/assets/83974830/b56304aa-26d7-4ffb-bae7-1b78da4abcf6)
+![image](https://github.com/allansantos7/Choose-Your-Own-Adventure-Game/assets/83974830/fb03a0dc-3095-462c-b4f8-7df5fbb7eb2c)
 
 <h1> Choose Your Own Adventure! Game using Python </h1></br>
 
